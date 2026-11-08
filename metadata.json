@@ -1,0 +1,6 @@
+{
+  "name": "ScriptSync - Video to Text Transcription Studio",
+  "description": "AI-powered video to text transcription with interactive synced player, speaker diarization, auto-chapters, summaries, and subtitle export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
